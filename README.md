@@ -5,4 +5,4 @@
 
 Мне нравится создавать что-то новое и видеть результат своей работы. Раньше занимался разработкой на других языках (Delphi, PHP, 1С). В разработке С++ привлекает меня большими возможностями, универсальностью применения и популярностью. Мне интересно решать интеллектуальные задачи (математические, аналитические, логические и т. д.).
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
