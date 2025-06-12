@@ -6,7 +6,5 @@
 Мне нравится создавать что-то новое и видеть результат своей работы. Раньше занимался разработкой на других языках (Delphi, PHP, 1С). В разработке С++ привлекает меня большими возможностями, универсальностью применения и популярностью. Мне интересно решать интеллектуальные задачи (математические, аналитические, логические и т. д.).
 
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvheniCH-Ufa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
