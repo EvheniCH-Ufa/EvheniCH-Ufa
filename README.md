@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Evgeny 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h2 style="color: #333399;"><strong>Мой стек: <span style="color: #ffcc00; background-color: #333399;">C++</span> <span style="color: #ffcc00; background-color: #333399;">Delphi</span> <span style="color: #ffcc00; background-color: #333399;">1C</span></strong></h2>
-<h3>Мой стек: C++</h3>
+<h2>Мой стек: C++: указатели, динамические объекты и память, конструкторы и деструкторы, ООП, шаблоны, умные указатели, идиома RAII, обработка ошибок и исключения, STL (контейнеры, итераторы, алгоритмы), потоки ввода-вывода, работа с файлами и директориями, регулярные выражения, move-семантика, perfect forwarding, оценка сложности, дерево вычислений, JSON, SVG, использование ANTLR, логирование, многопоточность, Git, CMake. </h2> 
