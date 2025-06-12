@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Evgeny 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>from Russia 🇷🇺</h1> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
+🇷🇺
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <h2>Мой стек:</h2> указатели, динамические объекты и память, конструкторы и деструкторы, ООП, шаблоны, умные указатели, идиома RAII, обработка ошибок и исключения, STL (контейнеры, итераторы, алгоритмы), потоки ввода-вывода, работа с файлами и директориями, регулярные выражения, move-семантика, perfect forwarding, оценка сложности, дерево вычислений, JSON, SVG, использование ANTLR, логирование, многопоточность, Git, CMake. 
