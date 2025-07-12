@@ -14,9 +14,11 @@
 
 <h2></h2>
 
+<!---Для компактной версии
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/EvheniCH-Ufa)](https://leetcode.com/EvheniCH-Ufa)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/EvheniCH-Ufa?ext=activity)
-![Leetcode Stats](https://leetcard.jacoblin.cool/EvheniCH-Ufa?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/EvheniCH-Ufa?ext=contest)-->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/EvheniCH-Ufa?ext=heatmap)
-![](https://leetcard.jacoblin.cool/EvheniCH-Ufa?ext=heatmap)
+
