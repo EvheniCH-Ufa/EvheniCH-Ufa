@@ -12,7 +12,7 @@
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvheniCH-Ufa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<h2></h2>
 
 <!---Для компактной версии   
 
