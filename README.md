@@ -16,4 +16,7 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/EvheniCH-Ufa)](https://leetcode.com/EvheniCH-Ufa)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
