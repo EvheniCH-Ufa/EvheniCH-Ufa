@@ -15,3 +15,5 @@
 <h2></h2>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/EvheniCH-Ufa)](https://leetcode.com/EvheniCH-Ufa)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
