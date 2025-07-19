@@ -15,7 +15,6 @@
 <h2></h2>
 
 <!---Для компактной версии   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvheniCH-Ufa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvheniCH-Ufa&layout=compact)](https://github.com/EvheniCH-Ufa/LeetCode)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/EvheniCH-Ufa)](https://leetcode.com/EvheniCH-Ufa)
